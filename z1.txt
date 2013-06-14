@@ -1,0 +1,10 @@
+Broj razdoblja: 4
+Potraznja za razdoblje 1: 10
+Potraznja za razdoblje 2: 20
+Potraznja za razdoblje 3: 30
+Potraznja za razdoblje 4: 40
+Rata povecanja kolicine nabave: 10
+Maksimalna kolicina nabave: 80
+Trosak jedne nabave: 300
+Maksimalni kapacitet skladista: 40
+Trosak skladistenja po jedinici robe: 1
